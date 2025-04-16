@@ -40,7 +40,7 @@ Figure 02  Encoder 8 * 3
 
 **PROGRAM**
 
-/* Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming.                                                                                                  
+/* Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming.                                                                                                 
 ![WhatsApp Image 2025-04-16 at 03 39 54_c203cd16](https://github.com/user-attachments/assets/4d91fa5e-2189-4ad0-9ebc-4ef99d82f72d)
 
 
